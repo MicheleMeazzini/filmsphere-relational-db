@@ -1,4 +1,4 @@
-**FilmSphere Relational Database**
+# FilmSphere Relational Database
 This repository contains the design and implementation of a relational database for FilmSphere, a fictional online movie streaming platform. The project was developed as part of the "Databases" course in the Computer Engineering Bachelor's Degree program.​
 
 ## Overview
