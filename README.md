@@ -1,2 +1,3 @@
-# filmsphere-relational-db
-Project for the subject "Databases" in the Computer Engineering Bachelor's Degree
+# FilmSphere Database
+
+Bachelor's Degree in Computer Engineering - Project for the subject "Databases".
