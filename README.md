@@ -47,3 +47,7 @@ For a full explanation of the schema and project goals, check out the `Documenta
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+### Authors
+
+Michele Meazzini, Elia Tonci
